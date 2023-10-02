@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-layout: default
 ---
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Ve67XEhqg7ML8f5gQwlarSCFF1jLVMggdDiJFJVxIFk"></script>
 
