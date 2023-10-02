@@ -49,4 +49,4 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Ve67XEhqg7ML8f5gQwlarSCFF1jLVMggdDiJFJVxIFk"></script>
+<a href="https://clustrmaps.com/site/1bwrw"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Ve67XEhqg7ML8f5gQwlarSCFF1jLVMggdDiJFJVxIFk&cl=ffffff" /></a>
