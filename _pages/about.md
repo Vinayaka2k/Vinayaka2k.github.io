@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Vinayaka Hegde and I'm currently working as a Research Associate at the [Dream Lab](https://dream-lab.in/), Indian Insitute of Science and I'm broadly interested in [MLSystems](https://mlsys.stanford.edu/)
+I am Vinayaka Hegde, currently working to optimize systems for ML workloads as a Research Associate at the [Dream Lab](https://dream-lab.in/), Department of Computational Data Sciences, Indian Insitute of Science.
 
 
 <!-- A data-driven personal website -->
