@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Vinayaka Hegde, currently working to optimize systems for ML workloads as a Research Associate at the [Dream Lab](https://dream-lab.in/), Department of Computational Data Sciences, Indian Insitute of Science.
-
+I am Vinayaka Hegde, currently working as a Research Associate at the [Dream Lab](https://dream-lab.in/), Department of Computational Data Sciences, Indian Insitute of Science. I mainly work on developing, deploying, and optimizing ML workloads on resource-constrained devices (such as accelerated edges, Nvidia Jetsons, etc).
 
 <!-- A data-driven personal website -->
 <!-- ======
