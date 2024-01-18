@@ -13,8 +13,5 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   <h2 onclick="window.location='{{ post.permalink }}'" style="cursor:pointer; color: blue; text-decoration: underline;">{{ post.title }}</h2>
-  <p><strong>Authors:</strong> {{ post.authors }}</p>
-  <p><strong>Paper URL:</strong> <a href="{{ Download here }}">{{ post.paperurl }}</a></p>
-  <!-- Add more details as needed -->
-
+  <p>{{ post.excerpt }}</p>
 {% endfor %}
