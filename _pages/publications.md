@@ -12,6 +12,6 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  <h2 onclick="window.location='{{ post.permalink }}'" style="cursor:pointer;">{{ post.title }}</h2>
+  <h2 onclick="window.location='{{ post.permalink }}'" style="cursor:pointer; color: blue; text-decoration: underline;">{{ post.title }}</h2>
   <p>{{ post.excerpt }}</p>
 {% endfor %}
