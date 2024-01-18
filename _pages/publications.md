@@ -11,8 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- {% for post in site.publications reversed %}  
-  {% include archive-single.html %}
-{% endfor %} -->
+{% for post in site.publications reversed %}
+  <h2 onclick="window.location='{{ post.permalink }}'" style="cursor:pointer;">{{ post.title }}</h2>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}
 
-aaa [linktitle](https://somelink/), aaa
+some content [linktitle](https://somelink/), some content
+some content [linktitle](https://somelink/), some content
