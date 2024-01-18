@@ -1,7 +1,8 @@
 ---
 title: "Towards Efficient Scheduling of Concurrent DNN Training and Inferencing on Accelerated Edges"
 collection: publications
-permalink: /publication/ccgridw
+permalink: "https://www.google.com"
+# /publication/ccgridw
 # date: 2023-01-01
 # venue: 'CCGridW'
 # paperurl: 'http://vinayaka2k.github.io/files/ccgridw.pdf'
