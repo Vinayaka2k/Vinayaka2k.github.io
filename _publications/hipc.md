@@ -2,7 +2,7 @@
 title: "Performance Characterization of Containerized DNN Training and Inference on Edge Accelerators"
 collection: publications
 permalink: "https://arxiv.org/abs/2312.07220"
-date: 2023-01-01
+date: 2023-12-12
 venue: 'HiPC'
 paperurl: 'http://vinayaka2k.github.io/files/hipc_short_paper.pdf'
 ---

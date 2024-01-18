@@ -2,7 +2,7 @@
 title: "Towards Efficient Scheduling of Concurrent DNN Training and Inferencing on Accelerated Edges"
 collection: publications
 permalink: "https://ieeexplore.ieee.org/document/10181196"
-date: 2023-01-01
+date: 2023-07-19
 venue: 'CCGridW'
 paperurl: 'http://vinayaka2k.github.io/files/ccgridw.pdf'
 ---
