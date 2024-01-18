@@ -3,7 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
+--- 
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -15,6 +15,3 @@ author_profile: true
   <h2 onclick="window.location='{{ post.permalink }}'" style="cursor:pointer;">{{ post.title }}</h2>
   <p>{{ post.excerpt }}</p>
 {% endfor %}
-
-some content [linktitle](https://somelink/), some content
-some content [linktitle](https://somelink/), some content
