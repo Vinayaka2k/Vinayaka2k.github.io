@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vinayaka M Hegde"
 title_separator          : "-"
 name                     : &name "Vinayaka M Hegde"
-description              : &description "Research Associate, DREAM Lab, IISc"
+description              : &description "CS Grad @ Texas A&M"
 url                      : https://vinayaka2k.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Vinayaka2k/vinayaka2k.github.io"
@@ -82,11 +82,10 @@ analytics:
 author:
   name             : "Vinayaka M Hegde"
   avatar           : "bio-photo-2.jpg"
-  bio              : "Research Associate, DREAM Lab, IISc"
-  location         : "Bangalore, India"
+  bio              : "CS Grad @ Texas A&M"
+  location         : "College Station, TX"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=PecAGncAAAAJ&hl=en"
-  email            : "vinuvinayaka2000@gmail.com"
+  email            : "vinayakah@tamu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -112,6 +111,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  linkedin         : "linkedin.com/in/vinayaka2000"
 
 # Reading Files
 include:
