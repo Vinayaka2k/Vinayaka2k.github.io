@@ -1,6 +1,6 @@
 # resume.md
 ---
-layout: archive
+layout: page
 title: "resume"
 permalink: /resume/
 author_profile: true
