@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Vinayaka Hegde, currently working as a Research Associate at the [Dream Lab](https://dream-lab.in/), Department of Computational Data Sciences, Indian Insitute of Science. I mainly work on developing, deploying, and optimizing ML workloads on resource-constrained devices (such as accelerated edges, Nvidia Jetsons, etc).
+Howdy, I am Vinayaka Hegde, a computer science grad student at Texas A&M. Leveraging my three years of industry experience, I am passionate about building scalable, fault-tolerant, and efficient systems. 
 
+Previously, I worked at PES Labs, where I was involved in developing, deploying, and optimizing ML workloads on resource-constrained devices (such as accelerated edges, Nvidia Jetsons, etc), and my work culminated in two publications at top-tier venues.
+
+Prior to that, I worked as a Software Developer in the Integrations team at Leadsquared, where I spearheaded API Development and Integrations.
 <!-- A data-driven personal website -->
 <!-- ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
